@@ -5,7 +5,7 @@ This project allows managing patient records and hospital rooms through a consol
 
 ---
 
-## 📌 Features
+## Features
 
 - Add a new patient
 - Display all patients
@@ -18,7 +18,7 @@ This project allows managing patient records and hospital rooms through a consol
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Language: **C**
 - Data Structure: **Linked List**
@@ -27,7 +27,7 @@ This project allows managing patient records and hospital rooms through a consol
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 Hospital-Management-System-C/
 │
